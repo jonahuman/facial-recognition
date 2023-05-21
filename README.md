@@ -7,7 +7,7 @@ OpenCvSharp
 
 # 3. Descarga este repositorio de Github
 
-# 4. Descarga el archivo haarcascade_frontalface_default.xml desde la siguiente URL: https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml. Este archivo XML contiene el modelo de detección de rostros pre-entrenado.
+# 4. El archivo XML contiene el modelo de detección de rostros pre-entrenado.
 
 # 5. Coloca el archivo haarcascade_frontalface_default.xml en el mismo directorio que tu archivo Program.cs.
 
